@@ -1,0 +1,19 @@
+Cukraszda neve: Cukraszda 1
+Nyitasi ev: 2001
+Fovarostol mert tavolsag km-re kerekitve: 200
+
+Cukraszda neve: Cukraszda 2
+Nyitasi ev: 2002
+Fovarostol mert tavolsag km-re kerekitve: 5
+
+Cukraszda neve: Cukraszda 3
+Nyitasi ev: 2003
+Fovarostol mert tavolsag km-re kerekitve: 15
+
+Cukraszda neve: Cukraszda 4
+Nyitasi ev: 2004
+Fovarostol mert tavolsag km-re kerekitve: 45
+
+Cukraszda neve: Cukraszda 5
+Nyitasi ev: 2005
+Fovarostol mert tavolsag km-re kerekitve: 60
