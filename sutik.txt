@@ -1,0 +1,120 @@
+Cukraszda neve: Cukraszda 1
+Kaloriatartalom: 340
+Tomeg: 200
+Elkeszitesi ido: 80
+Lejarati ido: 2022.03.04.
+Csokolade tartalom: 0.6
+Mentes-e? nem
+Nepszerusegi pontszam: 65
+Elkeszitesi koltseg: 1000 
+Bolti ara: 1300
+
+Cukraszda neve: Cukraszda 2
+Kaloriatartalom: 240
+Tomeg: 100
+Elkeszitesi ido: 83
+Lejarati ido: 2022.06.04.
+Csokolade tartalom: 0.4
+Mentes-e? nem
+Nepszerusegi pontszam: 55
+Elkeszitesi koltseg: 1000 
+Bolti ara: 1200
+
+Cukraszda neve: Cukraszda 3
+Kaloriatartalom: 340
+Tomeg: 200
+Elkeszitesi ido: 80
+Lejarati ido: 2022.05.14.
+Csokolade tartalom: 0.5
+Mentes-e? nem
+Nepszerusegi pontszam: 77
+Elkeszitesi koltseg: 1000 
+Bolti ara: 1300
+
+Cukraszda neve: Cukraszda 4
+Kaloriatartalom: 340
+Tomeg: 150
+Elkeszitesi ido: 80
+Lejarati ido: 2021.12.31.
+Csokolade tartalom: 0.33
+Mentes-e? nem
+Nepszerusegi pontszam: 45
+Elkeszitesi koltseg: 900 
+Bolti ara: 1110
+
+Cukraszda neve: Cukraszda 5
+Kaloriatartalom: 189
+Tomeg: 200
+Elkeszitesi ido: 80
+Lejarati ido: 2022.03.04.
+Csokolade tartalom: 0.8
+Mentes-e? nem
+Nepszerusegi pontszam: 65
+Elkeszitesi koltseg: 1300 
+Bolti ara: 1600
+
+Cukraszda neve: Cukraszda 1
+Kaloriatartalom: 340
+Tomeg: 200
+Elkeszitesi ido: 80
+Lejarati ido: 2022.03.04.
+Csokolade tartalom: 0.4
+Mentes-e? nem
+Nepszerusegi pontszam: 65
+Elkeszitesi koltseg: 1000 
+Bolti ara: 1200
+
+Cukraszda neve: Cukraszda 2
+Kaloriatartalom: 340
+Tomeg: 200
+Elkeszitesi ido: 80
+Lejarati ido: 2022.01.09.
+Csokolade tartalom: 0.4
+Mentes-e? igen
+Nepszerusegi pontszam: 65
+Elkeszitesi koltseg: 1300 
+Bolti ara: 1600
+
+Cukraszda neve: Cukraszda 3
+Kaloriatartalom: 340
+Tomeg: 200
+Elkeszitesi ido: 80
+Lejarati ido: 2022.03.04.
+Csokolade tartalom: 0.6
+Mentes-e? nem
+Nepszerusegi pontszam: 65
+Elkeszitesi koltseg: 900 
+Bolti ara: 1500
+
+Cukraszda neve: Cukraszda 4
+Kaloriatartalom: 340
+Tomeg: 200
+Elkeszitesi ido: 30
+Lejarati ido: 2022.03.04.
+Csokolade tartalom: 0.7
+Mentes-e? nem
+Nepszerusegi pontszam: 65
+Elkeszitesi koltseg: 1000 
+Bolti ara: 1300
+
+Cukraszda neve: Cukraszda 5
+Kaloriatartalom: 340
+Tomeg: 200
+Elkeszitesi ido: 80
+Lejarati ido: 2022.03.04.
+Csokolade tartalom: 0.8
+Mentes-e? nem
+Nepszerusegi pontszam: 65
+Elkeszitesi koltseg: 1000 
+Bolti ara: 1400
+
+Cukraszda neve: Cukraszda 5
+Kaloriatartalom: 340
+Tomeg: 200
+Elkeszitesi ido: 80
+Lejarati ido: 2022.03.04.
+Csokolade tartalom: 0.9
+Mentes-e? nem
+Nepszerusegi pontszam: 65
+Elkeszitesi koltseg: 1000 
+Bolti ara: 1300
